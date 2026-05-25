@@ -1,5 +1,5 @@
 # Resurrection Musical Instruments (RMI) 🎸
-### A dark-themed, luxury Management System for a musical instrument store. This application handles Inventory, Sales (POS), Service Requests, and Appointments with a focus on a high-end user experience.
+### A black and red-themed, luxury Management System for a musical instrument store. This application handles Inventory, Sales (POS), Analytics, Service Requests, and Appointments with a focus on a high-end user experience.
 
 ### ✨ Features
 **Inventory Management: Full CRUD operations for musical gear.
